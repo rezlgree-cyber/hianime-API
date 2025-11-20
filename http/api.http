@@ -1,5 +1,5 @@
 ### Base URL
-@baseUrl = http://localhost:3030/api/v1
+@baseUrl = https://api.chibiyo.cloudx.hk/api/v1
 
 ### 1. Home
 GET {{baseUrl}}/home
